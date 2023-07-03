@@ -1,0 +1,10 @@
+.update{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    z-index: 1;
+    height:15vh;
+    width: 25vh;
+    background-color: gray;
+    padding: 3%;
+}
